@@ -1,8 +1,8 @@
 <?php
 
-namespace amadeus64\DataZip;
+namespace amadeus64\datazip;
 
-class DataZip
+class datazip
 {
     private $extension;
 
