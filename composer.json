@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nplesa\\Datazip\\": "src/"
+            "amadeus64\\Datazip\\": "src/"
         }
     },
     "authors": [
@@ -13,5 +13,7 @@
             "name": "Nicolae Plesa"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0"
+    }
 }
