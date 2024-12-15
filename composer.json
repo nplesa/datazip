@@ -5,14 +5,16 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "amadeus64\\Datazip\\": "src/"
+            "amadeus64\\datazip\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Nicolae Plesa"
+            "name": "Nicolae Plesa",
+            "email": "nicu.plesa@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=8.0"
     }
