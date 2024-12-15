@@ -8,7 +8,7 @@ class datazip
 
     public function __construct()
     {
-    
+        $this->checkIfExtensionExist();
     }
 
     private function checkIfExtensionExist()){
