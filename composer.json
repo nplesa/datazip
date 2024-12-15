@@ -1,0 +1,17 @@
+{
+    "name": "nplesa/datazip",
+    "description": "Laravel database utility",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nplesa\\Datazip\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicolae Plesa"
+        }
+    ],
+    "require": {}
+}
